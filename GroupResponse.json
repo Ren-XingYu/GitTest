@@ -1,0 +1,92 @@
+{
+	"status_code": 200,
+	"error_code": 0,
+	"error_msg": "Successful.",
+	"resultData": null,
+	"costTime": null,
+	"total_count": 5,
+	"table_datas": [{
+		"ipgroup_id": "abfa37d0-f021-4d9c-b932-67a19eca8cf4",
+		"ipgroup_name": "group-5",
+		"iprange_rules": [{
+			"iprule_id": "d48490ea-facf-43e5-bca9-5568fb5c3677",
+			"iprule_content": "10.136.193.161&#x7e;10.136.193.164",
+			"ipgroup_id": null,
+			"operate_type": null
+		},
+		{
+			"iprule_id": "26bca13e-c9d7-4a51-8cdd-679653ae8980",
+			"iprule_content": "10.136.193.160&#x2f;24",
+			"ipgroup_id": null,
+			"operate_type": null
+		}],
+		"ipgroup_desc": null,
+		"operate_type": null
+	},
+	{
+		"ipgroup_id": "ad477fa6-324f-4f37-8e11-a64c2646ffca",
+		"ipgroup_name": "group-4",
+		"iprange_rules": [{
+			"iprule_id": "11814297-48f2-4733-8764-e3c321e7e256",
+			"iprule_content": "10.136.193.161&#x2f;24",
+			"ipgroup_id": null,
+			"operate_type": null
+		},
+		{
+			"iprule_id": "d8e3783b-a7f9-4f55-b0db-8aa68ecd2cfe",
+			"iprule_content": "10.136.193.160",
+			"ipgroup_id": null,
+			"operate_type": null
+		}],
+		"ipgroup_desc": null,
+		"operate_type": null
+	},
+	{
+		"ipgroup_id": "c09f0fee-18a4-4ddd-a710-ba67a404ea6f",
+		"ipgroup_name": "group-3",
+		"iprange_rules": [{
+			"iprule_id": "7b2d39ef-74a2-4cb5-931e-9ef3e5b9667b",
+			"iprule_content": "10.136.193.160",
+			"ipgroup_id": null,
+			"operate_type": null
+		},
+		{
+			"iprule_id": "4dbb883e-77b9-4486-9e96-ab41a21394cd",
+			"iprule_content": "10.136.193.161&#x7e;10.136.193.164",
+			"ipgroup_id": null,
+			"operate_type": null
+		}],
+		"ipgroup_desc": null,
+		"operate_type": null
+	},
+	{
+		"ipgroup_id": "cca8d71c-2549-411b-a012-583798ad3738",
+		"ipgroup_name": "group-2",
+		"iprange_rules": [{
+			"iprule_id": "d35c7c97-a613-464d-b151-9369e1e150fa",
+			"iprule_content": "10.136.193.160",
+			"ipgroup_id": null,
+			"operate_type": null
+		},
+		{
+			"iprule_id": "6f713f7d-0a79-468f-af3a-024a71bc769c",
+			"iprule_content": "10.136.193.161",
+			"ipgroup_id": null,
+			"operate_type": null
+		}],
+		"ipgroup_desc": null,
+		"operate_type": null
+	},
+	{
+		"ipgroup_id": "57f32546-8f77-44a7-a712-5407c9bd4a93",
+		"ipgroup_name": "group-1",
+		"iprange_rules": [{
+			"iprule_id": "7970fdee-6c38-49d7-881a-fefb3e4c7d35",
+			"iprule_content": "10.136.193.160",
+			"ipgroup_id": null,
+			"operate_type": null
+		}],
+		"ipgroup_desc": null,
+		"operate_type": null
+	}]
+}
