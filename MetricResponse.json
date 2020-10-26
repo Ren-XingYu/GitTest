@@ -1,0 +1,64 @@
+{
+	"status_code": 200,
+	"error_code": 0,
+	"error_msg": "Successful.",
+	"attachData": {
+		
+	},
+	"resultData": [{
+		"measureData": [{
+			"flow_bytes": "40068.0",
+			"flow_packet": "477.0"
+		}],
+		"host_addr": "10.136.193.156"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "75852.0",
+			"flow_packet": "903.0"
+		}],
+		"host_addr": "10.136.193.160"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "66192.0",
+			"flow_packet": "788.0"
+		}],
+		"host_addr": "10.136.193.161"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "77376.0",
+			"flow_packet": "921.0"
+		}],
+		"host_addr": "10.136.193.162"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "65520.0",
+			"flow_packet": "780.0"
+		}],
+		"host_addr": "10.136.193.163"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "31248.0",
+			"flow_packet": "372.0"
+		}],
+		"host_addr": "10.136.193.164"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "49560.0",
+			"flow_packet": "590.0"
+		}],
+		"host_addr": "10.136.193.180"
+	},
+	{
+		"measureData": [{
+			"flow_bytes": "31752.0",
+			"flow_packet": "378.0"
+		}],
+		"host_addr": "10.136.193.42"
+	}]
+}
