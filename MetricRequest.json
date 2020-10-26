@@ -1,0 +1,57 @@
+{
+	"queryType": "basic",
+	"startTime": 1603716689000,
+	"endTime": 1603720289000,
+	"measures": ["flow_bytes",
+	"flow_packet"],
+	"dimensions": ["host_addr"],
+	"resCategory": "nta_flow_host_own",
+	"advFilters": {
+		"host_is_ipv4": [{
+			"operator": "equals",
+			"value": "1",
+			"and": {
+				"host_long": [{
+					"operator": "range",
+					"range": [176734625,
+					176734628]
+				},
+				{
+					"operator": "range",
+					"range": [176734464,
+					176734719]
+				},
+				{
+					"operator": "range",
+					"range": [176734464,
+					176734719]
+				},
+				{
+					"operator": "equals",
+					"value": 176734624
+				},
+				{
+					"operator": "equals",
+					"value": 176734624
+				},
+				{
+					"operator": "range",
+					"range": [176734625,
+					176734628]
+				},
+				{
+					"operator": "equals",
+					"value": 176734624
+				},
+				{
+					"operator": "equals",
+					"value": 176734625
+				},
+				{
+					"operator": "equals",
+					"value": 176734624
+				}]
+			}
+		}]
+	}
+}
